@@ -1,0 +1,55 @@
+Hotel Booking Policies
+
+    Reservation Policy:
+        Reservations can be made through our website, mobile app, or customer service hotline.
+        A valid credit card is required to guarantee your reservation. Your card will not be charged until check-in, unless specified otherwise.
+
+    Cancellation Policy:
+        Cancellations must be made at least 24 hours prior to the scheduled check-in date to avoid a cancellation fee, which may equal one night's stay.
+        No-shows will incur a charge of one night's stay.
+
+    Check-In and Check-Out:
+        Check-in time is from 3:00 PM. Early check-in may be available upon request but is not guaranteed.
+        Check-out time is 11:00 AM. Late check-out requests may be accommodated based on availability and may incur an additional fee.
+
+    Room Policies:
+        Guests are responsible for the condition of the room during their stay. Any damages or excessive cleaning required may incur additional charges.
+        Smoking is prohibited in all rooms and common areas. Violation of this policy may result in a cleaning fee.
+
+    Age Requirement:
+        Guests must be at least 18 years old to check in. Valid identification will be required upon arrival.
+
+    Payment Policy:
+        Payment is due at check-in. We accept major credit cards, debit cards, and cash.
+        A security deposit may be required at check-in and will be refunded at check-out if no damages are incurred.
+
+    Pet Policy:
+        Pets are allowed in designated pet-friendly rooms for an additional fee. Please notify the hotel in advance if you plan to bring a pet.
+
+    Room Availability:
+        Room availability is subject to change and may vary based on demand. It is recommended to book in advance to secure your desired room type.
+
+    Special Requests:
+        Special requests (such as room location or amenities) will be noted but cannot be guaranteed. We will do our best to accommodate your needs.
+
+    Customer Support:
+        Our customer service team is available 24/7 to assist with any inquiries or issues during your stay. You can reach them through our website or by calling the hotel directly.
+
+FAQs (Frequently Asked Questions)
+
+    How do I make a reservation?
+        You can make a reservation through our website, mobile app, or by calling our customer service.
+
+    What is your cancellation policy?
+        Cancellations must be made at least 24 hours before check-in to avoid a fee.
+
+    What time is check-in and check-out?
+        Check-in is from 3:00 PM, and check-out is at 11:00 AM.
+
+    Can I bring my pet?
+        Yes, pets are allowed in designated rooms for an additional fee. Please inform us in advance.
+
+    What forms of payment do you accept?
+        We accept major credit cards, debit cards, and cash at check-in.
+
+Usage
